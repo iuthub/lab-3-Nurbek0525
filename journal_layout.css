@@ -5,6 +5,9 @@ span{
 	border-bottom: 2px #009097 dashed;
 }
 .container{
+	height: 600px;
+	clear: both;
+	display: block;
 	margin: 0 10% 0 10%;
 	border: 10px #fff solid;
 	background-color: #fff;
@@ -14,6 +17,8 @@ span{
 	background-color: #A8F0F0;
 }
 .box{
+	float: right;
+	width: 75%;
 	height: 220px;
 	padding: 5px;
 	margin-top: 10px;
@@ -21,6 +26,15 @@ span{
 }
 .inbox{
 	font-size: 14px;
+}
+.friends{
+	margin-top: 10px;
+	display: block;
+	background-color: #A8F0F0;
+	border: 4px blue solid;
+	width: 20%;
+	float: left;
+	padding: 15px;
 }
 p.right{
 	float: right;

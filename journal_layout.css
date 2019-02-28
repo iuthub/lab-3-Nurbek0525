@@ -1,0 +1,30 @@
+body{
+	background-image: url(images/background.gif);
+}
+span{
+	border-bottom: 2px #009097 dashed;
+}
+.container{
+	margin: 0 10% 0 10%;
+	border: 10px #fff solid;
+	background-color: #fff;
+}
+.box1{
+	text-align: right;
+	background-color: #A8F0F0;
+}
+.box{
+	height: 220px;
+	padding: 5px;
+	margin-top: 10px;
+	border: 4px #C2E9E9 solid
+}
+.inbox{
+	font-size: 14px;
+}
+p.right{
+	float: right;
+}
+p.right img{
+	margin-bottom: 20px;
+}
